@@ -1,0 +1,40 @@
+﻿#Data Types
+1. int; int; int; string; int; int; float; float; int; long; int
+
+2. 
+- Value type holds value; Reference type holds memory address.
+- Value types are store in stack memory while reference types are stored in heap memory.
+- Reference type will be collected by garbage collector when reference is cleared.
+- Value type can be created by struct or enum while reference type can be created by class, interface, delegate or array.
+- Value type can't have null values but reference type can.
+
+- Boxing is converting from value type to reference type; Unboxing is converting from reference type to value type.
+
+3. Managed resources indicate anything managed by CLR. Unmanaged resources are managed outside of CLR.
+
+4. Garbage collector allocate and release memory to save memory space and improve performance
+
+#Controlling Flow and Converting Types
+1. It throws an error.
+
+2. It returns infinity.
+
+3. It throws an error.
+
+4. x = y++ assigns value of y to x first, then increments y; x = ++y increments y first, then assigns the incremented value to x.
+
+5. Breaks jumps out of the inner most loop; Continue restarts an iteration from the inner most loop; Return ends all the loops.
+
+6. Initiailization; Condition (required part); Iteration Expression
+
+7. = is assignment operator, == checks equality.
+
+8. Yes it compiles and it became an infinite loop.
+
+9. In a switch expression, underscore represent all the other cases.
+
+10. An object must implement IEnumerable<T> interface to use foreach statement. 
+
+
+
+

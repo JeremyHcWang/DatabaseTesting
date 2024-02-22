@@ -1,0 +1,14 @@
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\bin\Debug\net8.0\UnderstandingTypes.exe
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\bin\Debug\net8.0\UnderstandingTypes.deps.json
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\bin\Debug\net8.0\UnderstandingTypes.runtimeconfig.json
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\bin\Debug\net8.0\UnderstandingTypes.dll
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\bin\Debug\net8.0\UnderstandingTypes.pdb
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.AssemblyInfo.cs
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.dll
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\refint\UnderstandingTypes.dll
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.pdb
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\UnderstandingTypes.genruntimeconfig.cache
+C:\Users\jemhw\RiderProjects\ConsoleApp1\UnderstandingTypes\obj\Debug\net8.0\ref\UnderstandingTypes.dll
