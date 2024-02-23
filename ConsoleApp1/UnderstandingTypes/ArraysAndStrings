@@ -1,0 +1,13 @@
+# Arrays and Strings
+
+1. Use StringBuilder when you need to modify or concatenate many strings frequently, otherwise, use String
+
+2. Array class
+
+3. Using Array.Sort method
+
+4. the length property
+
+5. No
+
+6. Copyto( ) copies the source array to desitination array. Clone() copies the array and returns the new object.

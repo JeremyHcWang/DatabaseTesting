@@ -1,0 +1,3 @@
+﻿using ArrayStrings;
+
+ArrayPrograms.CopyArray();

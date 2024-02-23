@@ -9,3 +9,12 @@ Methods demo = new Methods();
 //demo.GuessNumber();
 //demo.Greetings();
 //demo.Count24();
+
+//ArrayPrograms.CopyArray();
+//ArrayPrograms.ManageList();
+//ArrayPrograms.RotateArray();
+//ArrayPrograms.Longest();
+
+//StringPrograms.ReverseString();
+//Console.WriteLine(StringPrograms.ReverseWords("C# is not C++, and PHP is not Delphi!"));
+//StringPrograms.ParseUrl("https://www.apple.com/iphone");

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AqRIAp6+XyKfiK0Eo+lZ5UoKeTc2u5KzRIXMunNS+wIJ5EuHw+KBxYvXzZ1kDSqkekG6Q04xiC5zzen1lCVjlQ==",
+  "dgSpecHash": "U47zKGt7iobwyqCOBX7em5O8G8ZyfM5qAG3c1+PCsyHK1SzXkWlJX7xVzWHKra3xejBjzTsCQs1dhQgjr+UQMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jemhw\\RiderProjects\\ConsoleApp1\\UnderstandingTypes\\UnderstandingTypes.csproj",
+  "projectFilePath": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/UnderstandingTypes/UnderstandingTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
