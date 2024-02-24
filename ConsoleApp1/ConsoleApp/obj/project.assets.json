@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/UnderstandingTypes/UnderstandingTypes.csproj",
-      "projectName": "UnderstandingTypes",
-      "projectPath": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/UnderstandingTypes/UnderstandingTypes.csproj",
+      "projectUniqueName": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/ConsoleApp.csproj",
       "packagesPath": "/Users/jeremywang/.nuget/packages/",
-      "outputPath": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/UnderstandingTypes/obj/",
+      "outputPath": "/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeremywang/.nuget/NuGet/NuGet.Config"

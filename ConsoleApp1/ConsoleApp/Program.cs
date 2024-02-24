@@ -1,7 +1,6 @@
 ﻿using ConsoleApp1;
 
-Methods demo = new Methods();
-
+//Methods demo = new Methods();
 //demo.OutputBytes();
 //demo.OutputCenturies();
 //demo.FizzBuzz();
@@ -18,3 +17,9 @@ Methods demo = new Methods();
 //StringPrograms.ReverseString();
 //Console.WriteLine(StringPrograms.ReverseWords("C# is not C++, and PHP is not Delphi!"));
 //StringPrograms.ParseUrl("https://www.apple.com/iphone");
+
+// int[] numbers = OopMethods.GenerateNumbers(10);
+// OopMethods.Reverse(numbers);
+// OopMethods.PrintNumbers(numbers);
+
+//Console.WriteLine(OopMethods.Fibonacci(7));

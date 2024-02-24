@@ -1,0 +1,48 @@
+1. public, private, protected, internal, protected internal, private protected
+
+2. static means the member belongs to the type itself rather than instances of the type.
+const means the field must be initialized with a value, and can't be changed later.
+readonly means the member can only be assigned a value during initialization or in a constructor,
+once assigned, its value cannot be changed.
+
+3. A constructor initializes an instance of a class. It's a special method that has the same name as the class and is used to initialize the object's state. Constructors can take parameters to provide initial values for an object's properties or fields.
+
+4. The partial keyword allows a class, struct, interface, or method to be defined in multiple files. This can be useful for separating different concerns of a class into separate files or for code generation scenarios.
+
+5. A tuple is a data structure that groups together a fixed-size collection of elements of different types. Tuples are similar to arrays but are immutable and can hold elements of different data types.
+
+6. The C# record keyword is used to define immutable data types with value semantics. It is particularly useful for representing data transfer objects (DTOs) or data structures where immutability is desired.
+
+7. Overloading refers to defining multiple methods in the same class with the same name but different parameter lists. Overriding refers to providing a new implementation for a method in a subclass that is already defined in its superclass. Overriding is based on inheritance and allows a subclass to provide a specific implementation of a method defined in its superclass.
+
+8. A field is a variable that is declared within a class or struct and stores data. A property, on the other hand, is a member that provides a flexible mechanism to read, write, or compute the value of a private field. Properties encapsulate fields by exposing them through accessors (getters and setters), allowing controlled access to the field's value.
+
+9. You can make a method parameter optional by providing a default value for the parameter in the method signature. This allows callers to omit that parameter when calling the method.
+
+10. An interface in C# defines a contract that classes can choose to implement. It specifies methods, properties, events, or indexers that implementing classes must provide. An interface only contains method signatures and properties without implementation details. An abstract class, on the other hand, can contain both abstract and non-abstract members and can provide partial implementation. Additionally, a class can implement multiple interfaces but can only inherit from a single abstract class.
+
+11. Members of an interface are implicitly public and cannot have any access modifier specified explicitly.
+
+12. True. Polymorphism allows derived classes to provide different implementations of the same method, based on the method signature defined in the base class.
+
+13. True. The override keyword is used to indicate that a method in a derived class is providing its own implementation of a method that is defined in a base class and marked as virtual.
+
+14. False. The new keyword is not used to indicate providing a new implementation of a method in a derived class. It's used to explicitly hide a member that is inherited from a base class. If a method in a derived class has the same name as a method in the base class, using the new keyword hides the base class method but doesn't provide polymorphic behavior.
+
+15. False. Abstract methods must be contained within an abstract class. A normal (non-abstract) class cannot contain abstract methods.
+
+16. True. Normal (non-abstract) methods can be defined in an abstract class. Abstract classes can contain both abstract and non-abstract methods.
+
+17. True. Derived classes can override methods that were declared as virtual in the base class.
+
+18. True. Derived classes must override methods that were declared as abstract in the base class.
+
+19. False. In a derived class, you can only override methods that were declared as virtual or abstract in the base class. You cannot override a non-virtual or non-abstract method.
+
+20. True. A class that implements an interface is not required to provide an implementation for all members of the interface if the class is declared as abstract. However, if the class is non-abstract, it must provide implementations for all members of the interface.
+
+21. True. A class that implements an interface can have additional members that are not defined in the interface.
+
+22. True. A class can have more than one base class through multiple inheritance in the form of interfaces. However, C# does not support multiple inheritance of classes.
+
+23. True. A class can implement multiple interfaces in C#. This allows the class to provide implementations for all members defined in each interface it implements.

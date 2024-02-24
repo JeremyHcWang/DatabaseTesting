@@ -1,0 +1,15 @@
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/jeremywang/RiderProjects/DatabaseTesting/ConsoleApp1/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
