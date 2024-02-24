@@ -23,3 +23,13 @@
 // OopMethods.PrintNumbers(numbers);
 
 //Console.WriteLine(OopMethods.Fibonacci(7));
+
+// GenericList<int> intList = new GenericList<int>();
+// intList.Add(1);
+// intList.Add(2);
+// intList.Add(3);
+//
+// Console.WriteLine(intList.Find(1));
+//
+// intList.Remove(1);
+// Console.WriteLine(intList.Contains(2));

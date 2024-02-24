@@ -1,0 +1,23 @@
+1. Generics address the problem of code duplication when writing classes, structures, interfaces, and methods that operate on different data types but have essentially the same implementation. By using generics, you can create classes, structures, interfaces, and methods that can work with any data type while maintaining type safety and avoiding code duplication.
+
+2. List<string> stringList = new List<string>();
+
+3. The Dictionary class in C# has two generic type parameters: one for the type of the keys and one for the type of the values.
+
+4. False. When a generic class has multiple type parameters, they do not necessarily have to all match. Each type parameter can represent a different data type.
+
+5. Add() method.
+List<string> stringList = new List<string>();
+stringList.Add("abc");
+
+6.
+Remove(): Removes the first occurrence of a specific object.
+RemoveAt(): Removes the element at the specified index.
+
+7.You indicate that a class has a generic type parameter by declaring the type parameter within angle brackets (<>) after the class name. For example:
+
+8. False. Generic classes can have multiple generic type parameters. For example:
+
+9. True. Generic type constraints limit what types can be used for the generic type parameters. Constraints can include specifying that the type parameter must be a reference type, a value type, or that it must implement specific interfaces or derive from a particular class.
+
+10. True. Constraints allow you to restrict the generic type parameter to a specific set of types, which enables you to use the methods and properties of those types within the generic class or method.
