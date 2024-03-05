@@ -1,3 +1,3 @@
 ﻿using ArrayStrings;
 
-ArrayPrograms.CopyArray();
+//ArrayPrograms.CopyArray();
