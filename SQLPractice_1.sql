@@ -83,7 +83,8 @@ FROM Production.Product
 WHERE Color IS NOT NULL
 ORDER BY Color DESC;
 
---15. Write a query that retrieves the unique combination of columns ProductSubcategoryID and 
+--15. 
+--  Write a query that retrieves the unique combination of columns ProductSubcategoryID and 
 --  Color from the Production.Product table. Format and sort so the result set accordingly to the 
 --  following. We do not want any rows that are NULL.in any of the two columns in the result.
 
