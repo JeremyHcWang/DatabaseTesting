@@ -1,6 +1,7 @@
 USE AdventureWorks2019
 GO
 
+  
 --1.
 SELECT COUNT(*) AS "Total Number"
 FROM Production.Product;
