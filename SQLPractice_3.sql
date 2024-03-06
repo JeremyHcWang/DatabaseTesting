@@ -1,6 +1,7 @@
 USE NorthWind
 GO
 
+    
 --1. 
 SELECT DISTINCT City 
 FROM Employees
